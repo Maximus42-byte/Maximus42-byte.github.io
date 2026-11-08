@@ -4,3 +4,4 @@ description: >-
   A guide to the modern world, written by someone who read the terms and conditions.
 github_username: Maximus42-byte
 theme: minima
+show_excerpts: true
