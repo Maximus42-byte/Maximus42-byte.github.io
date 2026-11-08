@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Post Title"
+title: "Don't Panic"
 ---
 Your text here, in Markdown.
 
